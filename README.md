@@ -1,2 +1,2 @@
 # mya
-Hello! My name Dasha.
+Hello! My name is Dasha.
